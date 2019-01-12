@@ -1,4 +1,4 @@
-# automatizacion-de-huertos
+# Automatización de Huertos con Arduino
 
 Código y librerías para el taller de automatización de Huertos con Arduino
 
